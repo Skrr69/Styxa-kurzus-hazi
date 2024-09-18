@@ -1,0 +1,2 @@
+masik file.txt
+barmilyen tartalom
